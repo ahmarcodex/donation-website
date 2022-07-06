@@ -55,8 +55,20 @@ h1 {
     text-align: center;
 }
 
-
 .underline {
     text-decoration-line: underline;
     margin-bottom: 20px;
+}
+
+.form-box {
+    display: flex;
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.food-education {
+    display: flex;
 }
