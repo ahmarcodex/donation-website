@@ -82,3 +82,7 @@ h1 {
     display: flex;
     margin-bottom: 100px;
 }
+
+.need-survive {
+    display: flex;
+}
