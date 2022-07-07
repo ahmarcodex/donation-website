@@ -72,3 +72,13 @@ h1 {
 .food-education {
     display: flex;
 }
+
+.half-width {
+    width: 80%;
+    padding-left: 5%;
+}
+
+.lives-donation {
+    display: flex;
+    margin-bottom: 100px;
+}
